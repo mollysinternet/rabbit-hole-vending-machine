@@ -1,2 +1,2 @@
-# internet-vending-machine
-a little vending machine for weird internet surprises.
+# rabbithole-vending-machine
+insert a coin. discover something unique.
